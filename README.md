@@ -13,15 +13,15 @@ A simple command-line implementation of the classic Tic-Tac-Toe game in Python.
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/Shalin0003/TicTacToe.git
+    git clone https://github.com/Shalin0003/TicTacToe.PY.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd TicTacToe
+    cd TicTacToe.PY
     ```
 3. Run the Python script:
     ```bash
-    python TicTacToe.py
+    python main.py
     ```
 
 ## How to Play
